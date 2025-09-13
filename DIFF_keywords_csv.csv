@@ -1,0 +1,34 @@
+keyword,cur,prev,delta
+AAD,779.0,0.0,779.0
+Advisor,17.0,0.0,17.0
+Apple Support,2.0,0.0,2.0
+Azure,13.0,0.0,13.0
+BackgroundShortcutRunner,99.0,0.0,99.0
+Defender,9.0,0.0,9.0
+Facebook,83.0,0.0,83.0
+Instagram,4.0,0.0,4.0
+Intune,3.0,0.0,3.0
+JetsamEvent,361.0,5.0,356.0
+Meta,8010.0,0.0,8010.0
+Microsoft,67.0,0.0,67.0
+NSO,134.0,0.0,134.0
+Pegasus,701.0,5.0,696.0
+SiriSearchFeedback,1986.0,0.0,1986.0
+Stackshot,153.0,0.0,153.0
+Viettel,26.0,19.0,7.0
+WebKit.WebContent,9.0,0.0,9.0
+WhatsApp,44.0,0.0,44.0
+assetsd,8.0,0.0,8.0
+duetexpertd,144.0,0.0,144.0
+mdmd,76.0,1.0,75.0
+mobileconfig,1.0,0.0,1.0
+searchd,180.0,0.0,180.0
+sharingd,6.0,0.0,6.0
+signpost_reporter,15.0,0.0,15.0
+suggestd,32.0,0.0,32.0
+support.apple.com,2.0,0.0,2.0
+triald,716.0,0.0,716.0
+usageClientId,448.0,0.0,448.0
+viettel.vn,0.0,6.0,-6.0
+*.viettel.vn,0.0,4.0,-4.0
+GlobalSign RSA OV SSL CA 2018,0.0,2.0,-2.0

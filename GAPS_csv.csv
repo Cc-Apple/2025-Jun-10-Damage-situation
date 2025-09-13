@@ -1,0 +1,28 @@
+category,keyword,gap
+MDM,InstallConfigurationProfile,missing
+MDM,RemoveConfigurationProfile,missing
+MDM,MCProfile,missing
+MDM,MCProfileTrustLevel,missing
+MDM,MCXPreferences,missing
+MDM,managedconfigurationd,missing
+MDM,profileinstalld,missing
+MDM,installcoordinationd,missing
+MDM,mcinstall,missing
+APPLE_FRAMEWORK,ScreenTimeAgent,missing
+APPLE_FRAMEWORK,IMTranscoderAgent,missing
+PEGASUS,BlastDoor,missing
+PEGASUS,FORCEDENTRY,missing
+PEGASUS,Kismet,missing
+SUPPORT,Case ID,missing
+SUPPORT,Chat Adviser,missing
+SUPPORT,chat adviser,missing
+VIETTEL,com.vnp.myviettel,missing
+VIETTEL,myviettel,missing
+VIETTEL,viettel.vn,missing
+VIETTEL,GlobalSign RSA OV SSL CA 2018,missing
+VIETTEL,*.viettel.vn,missing
+FLAME_MS,GraphAPI,missing
+FLAME_MS,ExchangeOnline,missing
+FLAME_META,MetaAuth,missing
+FLAME_META,Facebook SDK,missing
+FLAME_META,Instagram API,missing

@@ -1,0 +1,4 @@
+date,time,device_norm,bug_type,hit_keyword,ref,time_score,confidence,flame_flag,parser_version
+2025-08-04,00:00:00,,211,mdmd,/mnt/data/_flame_2025-06-10/unzipped/part1/part1.txt,0,0.5,Yes,flame_v1.3_ext
+2025-07-23,00:00:00,,313,mobileconfig,/mnt/data/_flame_2025-06-10/unzipped/part2/part2.txt,0,0.5,Yes,flame_v1.3_ext
+2025-07-05,19:30:51,,298,BackgroundShortcutRunner,/mnt/data/_flame_2025-06-10/unzipped/part3/part3.txt,0,0.5,Yes,flame_v1.3_ext

@@ -1,0 +1,14 @@
+key,value
+SysInfoCrashReporterKey,d0cc51c9f68453b5fbd99a25033b927fc838473e
+bug_type,195
+description,"Version=4
+IncidentIdentifier=776109B8-8088-424C-B1BD-F90A2CCAF15C
+Date=2025-06-10;AP=22F76;BB=5.51.03;Machine=iPhone13,1
+9:40:56 +0700 ST [clm] disconnect: duration=0;cause=kUserBusy;modemErr=146;rat=2
+9:41:21 +0700 ST [clm] disconnect: duration=0;cause=kNoError;modemErr=145;rat=2
+9:41:42 +0700 ST [clm] disconnect: duration=0;cause=kNoError;modemErr=145;rat=2
+9:42:08 +0700 ST [clm] disconnect: duration=0;cause=kUserBusy;modemErr=146;rat=2
+10:14:13 +0700 ST [clm] disconnect: duration=0;cause=kUserBusy;modemErr=146;rat=2
+"
+os_version,iPhone OS 18.5 (22F76)
+system_ID,

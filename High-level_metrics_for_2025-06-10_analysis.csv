@@ -1,0 +1,2 @@
+top_files_count,top_zip_count,top_total_size_bytes,inner_files_count,dup_clusters,max_dup_count,hits_mdm,hits_framework,hits_pegasus,hits_viettel,hits_support,viettel_files,viettel_signals,ips_events,ips_unique_procnames,ips_bugtype_298_rows,plist_keys,tagged_files,timeline_entries,top10_keywords
+10,9,4378579,47,11,5,1,5,5,31,0,2,4,0,0,0,5,12,0,"[('Viettel', 19), ('viettel.vn', 6), ('JetsamEvent', 5), ('Pegasus', 5), ('*.viettel.vn', 4), ('GlobalSign RSA OV SSL CA 2018', 2), ('mdmd', 1)]"

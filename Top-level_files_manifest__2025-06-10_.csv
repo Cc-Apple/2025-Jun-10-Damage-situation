@@ -1,0 +1,11 @@
+,level,parent,path,name,size_bytes,sha256,mime_guess
+4,top,,/mnt/data/H.zip,H.zip,3708645,f3865c3f6cafe9f7f65baecc0bc4742d4ea0d752b219250b28c7571045c5eba9,application/zip
+1,top,,/mnt/data/README_victim_map.zip,README_victim_map.zip,90402,ae23464f5be62757b558542ba42d43b8762c38cb00c888e4bb2f900501b17e34,application/zip
+9,top,,/mnt/data/REPORT_extract_2025-06-10 2 (2).zip,REPORT_extract_2025-06-10 2 (2).zip,3277,5a62dbf4aa6ed6a128f0dd958b24599b34a6b313a5a19bff9ec423f59d92df4d,application/zip
+8,top,,/mnt/data/REPORT_extract_2025-06-10 2.zip,REPORT_extract_2025-06-10 2.zip,70489,91927759de5423df5f604250ae739e81361ae9491408e94304b80492310c6d61,application/zip
+5,top,,/mnt/data/Tajima.zip,Tajima.zip,5798,cca060698fefa90239c46390a6406398c69c7953289086cdf27b20cea5aa8883,application/zip
+3,top,,/mnt/data/bug_type_298_2025-06-10_combined.zip,bug_type_298_2025-06-10_combined.zip,496244,2c63d0f26ba291201f646241d38960571a21d01ac8b34ed22713062b1358776f,application/zip
+2,top,,/mnt/data/identifiers_dedup.zip,identifiers_dedup.zip,409,600d9dfefe56a78214c4f6c517486a4d929563019318fbff9916c8541e2b5582,application/zip
+0,top,,/mnt/data/log-bb-2025-06-10-stats.plist,log-bb-2025-06-10-stats.plist,999,eaeb74148d1b99090e5b5395f9b29cc69c41f544872158ba096bc22011f4934f,application/octet-stream
+7,top,,/mnt/data/victim_report_template (2).zip,victim_report_template (2).zip,1289,7839fc2b1d524ab9f168d5db2a448a027bbeac9d1a751ab616b7185738490d74,application/zip
+6,top,,/mnt/data/victim_report_template.zip,victim_report_template.zip,1027,24231d0b0f6ed31d86a2191f42222d323d1779aeba2ea7980b9a59bb98cef4c8,application/zip

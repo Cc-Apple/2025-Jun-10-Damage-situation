@@ -1,0 +1,54 @@
+date,time,device_norm,bug_type,hit_keyword,ref,time_score,confidence,flame_flag,parser_version,__diff__,file,keyword,snippet
+2025-08-04,00:00:00,,211.0,mdmd,/mnt/data/_flame_2025-06-10/unzipped/part1/part1.txt,0.0,0.5,Yes,flame_v1.3_ext,ADDED,,,
+2025-07-23,00:00:00,,313.0,mobileconfig,/mnt/data/_flame_2025-06-10/unzipped/part2/part2.txt,0.0,0.5,Yes,flame_v1.3_ext,ADDED,,,
+2025-07-05,19:30:51,,298.0,BackgroundShortcutRunner,/mnt/data/_flame_2025-06-10/unzipped/part3/part3.txt,0.0,0.5,Yes,flame_v1.3_ext,ADDED,,,
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,Viettel,"5064202Z260103030105Z010	UVN10UHanoi10UHanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,Viettel,"UHanoi10UHanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,Viettel,"noi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,Viettel,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,Viettel,&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D0~ +
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,viettel.vn,"noi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,viettel.vn,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,viettel.vn,&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D0~ +
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,GlobalSign RSA OV SSL CA 2018,q&WJz%	2$i0
+,,,,,,,,,,REMOVED,	*H,,
+,,,,,,,,,,REMOVED,,,
+,,,,,,,,,,REMOVED,241205064202Z,,
+,,,,,,,,,,REMOVED,260103030105Z010	UVN10UHanoi10UHanoi1>,,
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,*.viettel.vn,"Hanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/H/viettel.der,*.viettel.vn,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/README_victim_map/README_victim_map.txt,JetsamEvent,"d - psychological_effects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_m"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/README_victim_map/README_victim_map.txt,Pegasus,"ffects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_metric_values: e"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2 (2)/README_victim_map 2.txt,JetsamEvent,"d - psychological_effects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_m"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2 (2)/README_victim_map 2.txt,Pegasus,"ffects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_metric_values: e"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2 (2)/README_victim_map.txt,JetsamEvent,"d - psychological_effects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_m"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2 (2)/README_victim_map.txt,Pegasus,"ffects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_metric_values: e"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2/README_victim_map 2.txt,JetsamEvent,"d - psychological_effects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_m"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2/README_victim_map 2.txt,Pegasus,"ffects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_metric_values: e"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2/README_victim_map.txt,JetsamEvent,"d - psychological_effects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_m"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/REPORT_extract_2025-06-10 2/README_victim_map.txt,Pegasus,"ffects: concise, comma-separated - key_log_terms: e.g., RTCR;JetsamEvent;Stacks;Pegasus;Biome;EcosystemAnalytics - biome_metrics_found: yes/no - biome_metric_values: e"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/____________.csv,Viettel,"File Name,SHA-256,Created Time,Modified Time viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/____________.csv,Viettel,"1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263 viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,Viettel,"5064202Z260103030105Z010	UVN10UHanoi10UHanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,Viettel,"UHanoi10UHanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,Viettel,"noi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,Viettel,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,Viettel,&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D0~ +
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,viettel.vn,"noi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,viettel.vn,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,viettel.vn,&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D0~ +
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,GlobalSign RSA OV SSL CA 2018,q&WJz%	2$i0
+,,,,,,,,,,REMOVED,	*H,,
+,,,,,,,,,,REMOVED,,,
+,,,,,,,,,,REMOVED,241205064202Z,,
+,,,,,,,,,,REMOVED,260103030105Z010	UVN10UHanoi10UHanoi1>,,
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,*.viettel.vn,"Hanoi1>0<U 5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U*.viettel.vn0""0	*H"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.der,*.viettel.vn,20402+&https://www.globalsign.com/repository/0g0#U0*.viettel.vn viettel.vn0U%0++0U#0xgo$0UT:g례D
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.zip,Viettel,PK
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/viettel.zip,Viettel,n΢﹖]Byݡ_jXky=Pl>>{{6NhBPKH
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/不正証拠/_____________csv__preview_.csv,Viettel,"File Name,SHA-256,Created Time,Modified Time viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/不正証拠/_____________csv__preview_.csv,Viettel,"1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263 viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26"
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/不正証拠/viettel_bundle_analysis_report.txt,Viettel,Viettel Bundle Analysis Report ================================  SHA-256 hashes: - ____
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/不正証拠/viettel_bundle_analysis_report.txt,Viettel,_search.txt: 405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348 - viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439 - viettel
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/Tajima/不正証拠/viettel_bundle_analysis_report.txt,Viettel,viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439 - viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20  history_
+,,,,,,,,,,REMOVED,/mnt/data/_work_2025-06-10/unzipped/bug_type_298_2025-06-10_combined/bug_type_298_2025-06-10_combined.pdf,mdmd,"<PpI*?Y7]4Pu;4inFb1;IHERa-a//PlHh*l^,<HV9'h*?HQrU;[=pPa-W7kDe-J+1T9.K(CHmJJBYq#HMDMDUQ^M^TNEineJJ/fC+l5%F""BG3]p2quZ8%a\i~>endstream endobj 17 0 obj << /Filter [ /AS"

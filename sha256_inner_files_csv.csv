@@ -1,0 +1,4 @@
+parent_zip,inner_rel,abs_path,name,size_bytes,sha256,mime,parser_version
+part1.zip,part1.txt,/mnt/data/_flame_2025-06-10/unzipped/part1/part1.txt,part1.txt,64150208,09cbafbd251a47cadab496303be1ed23496ac30de79e222d5b6101f5b025493d,text/plain,flame_v1.3_ext
+part2.zip,part2.txt,/mnt/data/_flame_2025-06-10/unzipped/part2/part2.txt,part2.txt,103424487,7ead6e408c7c3f9569221bee53d9a5902dd9977155b62c76c194b638c1d342ea,text/plain,flame_v1.3_ext
+part3.zip,part3.txt,/mnt/data/_flame_2025-06-10/unzipped/part3/part3.txt,part3.txt,52811406,8bdef3268b594cc5c8a6ee80bd0ed36a0ef4d2c7b520b56d57d64242b6b21e44,text/plain,flame_v1.3_ext
